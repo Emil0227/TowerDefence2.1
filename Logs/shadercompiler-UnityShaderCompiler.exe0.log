@@ -1,0 +1,4 @@
+Base path: 'E:/U3D/Editor/Data', plugins path 'E:/U3D/Editor/Data/PlaybackEngines'
+Cmd: initializeCompiler
+
+Cmd: shutdown
